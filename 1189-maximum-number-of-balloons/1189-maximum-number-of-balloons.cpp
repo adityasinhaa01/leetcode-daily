@@ -8,12 +8,6 @@ public:
             mpp[ch]++;
         }
 
-        int b = mpp['b'];
-        int a = mpp['a'];
-        int l = mpp['l'] / 2;
-        int o = mpp['o'] / 2;
-        int n = mpp['n'];
-
-        return min({b, a, l, o, n});
+        return min({mpp['b'], mpp['a'], mpp['l'] / 2, mpp['o'] / 2, mpp['n']});
     }
 };
