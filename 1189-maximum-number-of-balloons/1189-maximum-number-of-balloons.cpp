@@ -8,6 +8,6 @@ public:
             mpp[ch]++;
         }
 
-        return min({mpp['b'], mpp['a'], mpp['l'] >> 1, mpp['o'] >> 1, mpp['n']});
+        return min({mpp['b'], mpp['a'], mpp['l'] / 2, mpp['o'] / 2, mpp['n']});
     }
 };
