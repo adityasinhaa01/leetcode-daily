@@ -27,4 +27,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/adityasinhaa01/leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/adityasinhaa01/leetcode-daily/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/adityasinhaa01/leetcode-daily/tree/master/0739-daily-temperatures) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/adityasinhaa01/leetcode-daily/tree/master/0387-first-unique-character-in-a-string) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/adityasinhaa01/leetcode-daily/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/adityasinhaa01/leetcode-daily/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/adityasinhaa01/leetcode-daily/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
